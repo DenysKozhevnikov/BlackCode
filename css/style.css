@@ -15,7 +15,6 @@ body {
 	grid-template-columns: 27% 73%;
 	grid-template-rows: 100%;
 }
-
 .header {
 	grid-column: 1 / 2;
 	grid-row: 1 / 2;
@@ -1122,8 +1121,9 @@ body {
 	.p1 {
 		display: flex;
 		font-size: 24pt;
-		margin-left: -40px;
+		margin-left: -25px;
 		text-align: center;
+		margin-top: 55px;
 	}
 	.oval {
 		grid-column: 2 / 3;
@@ -1465,19 +1465,19 @@ body {
   		justify-content: center;
 	}
 	.menu-wrap .menu > div {
-  background: var(--overlay-color);
-  border-radius: 50%;
-  margin-top: 100px;
-  position: fixed;
-  width: 200vw;
-  height: 200vw;
-  display: flex;
-  flex: none;
-  align-items: center;
-  justify-content: center;
-  transform: scale(0);
-  transition: all 0.4s ease;
-}
+  		background: var(--overlay-color);
+  		border-radius: 50%;
+  		margin-top: 100px;
+  		position: fixed;
+  		width: 200vw;
+  		height: 200vw;
+  		display: flex;
+  		flex: none;
+  		align-items: center;
+  		justify-content: center;
+  		transform: scale(0);
+  		transition: all 0.4s ease;
+	}
 	.p300 {
 		display: none;
 	}
