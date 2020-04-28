@@ -420,7 +420,7 @@ body {
 	grid-column: 1/2; 
 	grid-row: 1/2;
 	display: grid;
-	grid-template-columns: 33.3% 33.3% 33.3%;
+	grid-template-columns: 33.3% 55% ;
 	grid-template-rows: 40px 46px 46px 46px 46px ;
 }
 .div9 {
@@ -437,17 +437,17 @@ body {
 }
 .div10 {
 	display: grid;
-	grid-column: 1 / 4;
+	grid-column: 1 / 3;
 	grid-row: 2 / 3;
 }
 .div11 {
 	display: grid;
-	grid-column: 1 / 4;
+	grid-column: 1 / 3;
 	grid-row: 3 / 4;
 }
 .div12 {
 	display: grid;
-	grid-column: 1 / 4;
+	grid-column: 1 / 3;
 	grid-row: 4 / 5;
 }
 .status {
@@ -483,7 +483,7 @@ body {
 	grid-column: 1/2; 
 	grid-row: 2/3;
 	display: grid;
-	grid-template-columns: 33.3% 33.3% 33.3%;
+	grid-template-columns: 33.3% 55%;
 	grid-template-rows: 40px 46px 46px 46px 46px 46px 46px 46px;
 }
 .div18 {
@@ -500,28 +500,38 @@ body {
 }
 .div13 {
 	display: grid;
-	grid-column: 1 / 4;
+	grid-column: 1 / 3;
 	grid-row: 2 / 3;
 }
 .div14 {
 	display: grid;
-	grid-column: 1 / 4;
+	grid-column: 1 / 3;
 	grid-row: 3 / 4;
 }
 .div15 {
 	display: grid;
-	grid-column: 1 / 4;
+	grid-column: 1 / 3;
 	grid-row: 4 / 5;
 }
 .div16 {
 	display: grid;
-	grid-column: 1 / 4;
+	grid-column: 1 / 3;
 	grid-row: 5 / 6;
 }
 .div17 {
 	display: grid;
-	grid-column: 1 / 4;
+	grid-column: 1 / 3;
 	grid-row: 6 / 7;
+}
+.end {
+	display: none;
+}
+.star {
+	display: none;
+}
+.center {
+	margin-top: -9px;
+	display: flex;
 }
 .status {
 	display: flex;
@@ -839,9 +849,6 @@ body {
 	margin-top: -25px;
 	text-align: center;	
 }
-.center {
-	display: none;
-}
 @media (max-width: 768px) {
 	.menu-wrap .menu {
   		position: fixed;
@@ -1066,7 +1073,7 @@ body {
 	}
 	.p1 {
 		display: flex;
-		font-size: 24pt;
+		font-size: 20pt;
 		margin-top: 50px;
 		margin-left: -40px;
 		text-align: center;
@@ -1265,7 +1272,7 @@ body {
 	}
 	.p1 {
 		display: flex;
-		font-size: 24pt;
+		font-size: 20pt;
 		margin-top: 100px;
 		margin-left: -40px;
 		text-align: center;
@@ -1464,7 +1471,7 @@ body {
 	}
 	.p1 {
 		display: flex;
-		font-size: 24pt;
+		font-size: 20pt;
 		margin-top: 100px;
 		margin-left: -40px;
 		text-align: center;
