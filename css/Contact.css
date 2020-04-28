@@ -907,7 +907,7 @@ body {
 		display: flex;
 		color: white;
 		font-weight: bold;
-		font-size: 20pt;
+		font-size: 24pt;
 		text-align: center;
 		margin-left: -25px;
 		margin-top: 55px;
@@ -1123,7 +1123,7 @@ body {
 	}
 	.p1 {
 		display: flex;
-		font-size: 20pt;
+		font-size: 24pt;
 		margin-top: 100px;
 		margin-left: -40px;
 		text-align: center;
@@ -1340,7 +1340,7 @@ body {
 	}
 	.p1 {
 		display: flex;
-		font-size: 20pt;
+		font-size: 24pt;
 		margin-top: 100px;
 		margin-left: -40px;
 		text-align: center;
