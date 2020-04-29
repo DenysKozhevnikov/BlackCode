@@ -27,7 +27,6 @@ body {
 	grid-column: 1 / 4;
 	grid-row: 1 / 2;
 	color: white;
-	font-size: ;
 	font-weight: bold;
 	position: fixed;
 	margin-left: 26.5px;
@@ -94,7 +93,7 @@ body {
 	align-items: center;
 	font-size: 14pt;
 	font-weight: bold;
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Montserrat" sans-serif;
 	color: black;
 	justify-content: space-around;
 }
@@ -126,7 +125,7 @@ body {
 	width: 20%;
 	height: 70%;
 	background: #ffcd38;
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Montserrat" sans-serif;
 	display: flex;
 	color: white;
 	align-items: center;
@@ -245,7 +244,7 @@ body {
 }
 .p7 {
 	font-size: 16pt;
-	font-family: 'Montserrat' sans-serif;
+	font-family: "Montserrat" sans-serif;
 	font-weight: bold;
 	color: black;
 }
@@ -262,7 +261,7 @@ body {
 	font-weight: bold;
 	color: #363636;
 	margin-top: 10px;
-	font-family: 'Kreon', serif;
+	font-family: "Kreon" serif;
 }
 .p10 {
 	font-size: 9pt;
@@ -299,7 +298,6 @@ body {
 	grid-row: 4 / 5;
 	display: grid;
 	grid-template-columns: 100%;
-	grid-template-rows:;
 }
 .text_servis {
 	display: flex;
@@ -354,13 +352,13 @@ body {
 .p11 {
 	font-size: 16pt;
 	margin-left: 30px;
-	font-family: 'Montserrat' sans-serif;
+	font-family: "Montserrat" sans-serif;
 	font-weight: bold;
 	color: black;
 }
 .p13 {
 	font-size: 12pt;
-	font-family: 'Montserrat' sans-serif;
+	font-family: "Montserrat" sans-serif;
 	font-weight: bold;
 	color: #363636;
 	text-align: center;
@@ -371,7 +369,7 @@ body {
 	font-size: 10pt;
 	width: 90%;
 	font-weight: bold;
-	font-family: 'Montserrat' sans-serif;
+	font-family: "Montserrat" sans-serif;
 	color: #363636;
 	text-align: center;
 	font-weight: bold;
@@ -381,7 +379,7 @@ body {
 	font-size: 10pt;
 	width: 70%;
 	font-weight: bold;
-	font-family: 'Montserrat' sans-serif;
+	font-family: "Montserrat" sans-serif;
 	color: #363636;
 	text-align: center;
 	font-weight: bold;
@@ -448,7 +446,7 @@ body {
 .p0 {
 	font-size: 16pt;
 	margin-left: 30px;
-	font-family: 'Montserrat' sans-serif;
+	font-family: "Montserrat" sans-serif;
 	font-weight: bold;
 	color: black;
 }
@@ -494,7 +492,7 @@ body {
 }
 .p20 {
 	font-size: 13pt;
-	font-family: 'Montserrat' sans-serif;
+	font-family: "Montserrat" sans-serif;
 	font-weight: bold;
 	color: #363636;
 	margin: 0 auto;
@@ -507,13 +505,14 @@ body {
 }
 .p21 {
 	color: #ffcd38;
-	font-family: 'Montserrat' sans-serif;
+	font-family: "Montserrat" sans-serif;
 	font-weight: bold;
 	font-size: 24pt;
 	margin-top: 10px;
 }
-/**//**//**//**//**//**//**//**//**/
+
 @import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
 .menus {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -922,7 +921,7 @@ body {
 		width: 35%;
 		height: 80%;
 		background: #ffcd38;
-		font-family: 'Montserrat', sans-serif;
+		font-family: "Montserrat" sans-serif;
 		display: flex;
 		color: white;
 		align-items: center;
@@ -1209,7 +1208,6 @@ body {
 	}
 	.blok_text3 {
 		display: none;
-		margin-left: 25px;
 	}
 	.foto_text_foto {
 		display: grid;
@@ -1382,7 +1380,6 @@ body {
 	}
 	.blok_text3 {
 		display: none;
-		margin-left: 25px;
 	}
 	.foto_text_foto {
 		display: grid;
@@ -1434,7 +1431,6 @@ body {
 	}
 	.blok_d2 {
 		display: none;
-		display: none;
 	}
 	.foto_text {
 		display: grid;
@@ -1445,7 +1441,6 @@ body {
 	}
 	.blok_d4 {
 		display: none;
-		grid-column: 2 / 3;
 	}
 	.blok_ds {
 		display: grid;
@@ -1603,7 +1598,6 @@ body {
 	}
 	.blok_text3 {
 		display: none;
-		margin-left: 25px;
 	}
 	.foto_text_foto {
 		display: grid;
@@ -1655,7 +1649,6 @@ body {
 	}
 	.blok_d2 {
 		display: none;
-		display: none;
 	}
 	.foto_text {
 		display: grid;
@@ -1666,7 +1659,6 @@ body {
 	}
 	.blok_d4 {
 		display: none;
-		grid-column: 2 / 3;
 	}
 	.blok_ds {
 		display: grid;

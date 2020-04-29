@@ -23,7 +23,6 @@ body {
 	grid-column: 1 / 4;
 	grid-row: 1 / 2;
 	color: white;
-	font-size: ;
 	font-weight: bold;
 	position: fixed;
 	margin-left: 26.5px;
@@ -244,7 +243,10 @@ body {
 	height: 100%;
 }
 /**//**//**//**//**//**//**//**//**/
+
+
 @import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
 .menus {
   display: -webkit-box;
   display: -ms-flexbox;
