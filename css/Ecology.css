@@ -593,6 +593,17 @@ body {
 .blok_dds {
 	display: none;
 }
+.p11122 {
+	font-weight: bold;
+	display: none;
+	color: grey;
+	margin-top: -10px;
+}
+.apa {
+	font-weight: bold;
+	color: grey;
+	margin-top: -10px;
+}
 @media (max-width: 768px) {
 	.menu-wrap {
  	  position: static;
@@ -794,6 +805,9 @@ body {
 @media (max-width: 425px) {
 	.container {
 		height: 130vh;
+	}
+	.p11122 {
+		display: flex;
 	}
 	.menu-wrap {
  	  position: static;
@@ -1014,6 +1028,9 @@ body {
 	}
 }
 @media (max-width: 375px) {
+	.p11122 {
+		display: flex;
+	}
 	.container {
 		height: 130vh;
 	}
@@ -1284,6 +1301,9 @@ body {
 
 }
 @media (max-width: 320px) {
+	.p11122 {
+		display:flex;
+	}
 	.container {
 		height: 120vh;
 	}

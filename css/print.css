@@ -23,6 +23,18 @@ body {
 	grid-template-rows: 150px 65px 250px;
 	background: #b5d0db;
 }
+.p11122 {
+	display: none;
+	color: grey;
+	font-weight: bold;
+	margin-top: -10px;
+}
+.apa {
+	font-weight: bold;
+	color: grey;
+	margin-top: -10px;
+}
+
 .text {
 	grid-column: 1 / 4;
 	grid-row: 1 / 2;
@@ -792,6 +804,9 @@ body {
 }
 
 @media (max-width: 425px) {
+	.p11122 {
+		display: flex;
+	}
 	.container {
 		height: 130vh;
 	}
@@ -1014,6 +1029,9 @@ body {
 	}
 }
 @media (max-width: 375px) {
+	.p11122 {
+		display: flex;
+	}
 	.container {
 		height: 130vh;
 	}
@@ -1284,6 +1302,9 @@ body {
 
 }
 @media (max-width: 320px) {
+	.p11122 {
+		display: flex;
+	}
 	.container {
 		height: 120vh;
 	}

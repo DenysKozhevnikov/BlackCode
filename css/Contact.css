@@ -1290,7 +1290,7 @@ body {
 	.menu-wrap .menu {
   		position: fixed;
   		top: -62.5%;
-  		left: -12.5%;
+  		left: -13%;
   		width: 120%;
   		height: 200%;
   		visibility: hidden;
