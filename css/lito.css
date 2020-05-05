@@ -1026,6 +1026,12 @@ body {
 	.pht {
 		margin-left: 20px;
 	}
+	.p11122 {
+		display: flex;
+		margin-left: 118px;
+		color: grey;
+		margin-top: 2px;
+	}
 }
 @media (max-width: 375px) {
 	.p11122 {
@@ -1298,8 +1304,13 @@ body {
 	.pht {
 		margin-left: 20px;
 	}
-
-}
+	.p11122 {
+		display: flex;
+		margin-left: 118px;
+		color: grey;
+		margin-top: 2px;
+	}
+}	
 @media (max-width: 320px) {
 	.p11122 {
 		display: flex;
@@ -1449,5 +1460,11 @@ body {
 	}
 	.pht {
 		margin-left: 20px;
+	}
+	.p11122 {
+		display: flex;
+		margin-left: 108px;
+		color: grey;
+		margin-top: 5px;
 	}
 }

@@ -1027,6 +1027,10 @@ body {
 	.pht {
 		margin-left: 20px;
 	}
+	.p11122 {
+		margin-left: 146px;
+		display: flex;
+	}
 }
 @media (max-width: 375px) {
 	.p11122 {
@@ -1299,7 +1303,10 @@ body {
 	.pht {
 		margin-left: 20px;
 	}
-
+	.p11122 {
+		margin-left: 134px;
+		display: flex;
+	}
 }
 @media (max-width: 320px) {
 	.p11122 {
@@ -1418,14 +1425,14 @@ body {
 	.text4 {
 		display: grid;
 		grid-column: 1 / 4;
-		grid-row: 4 / 5;
+		grid-row: 5 / 6;
 	}
 	.contact {
 		background: #ffffff;
 		grid-column: 1 / 3;
 		display: grid;
 		grid-template-columns: 33.3% 33.3% 33.3%;
-		grid-template-rows: 75px 0px 62.5px 300px 350px;
+		grid-template-rows: 75px 0px 62.5px 15px 300px 350px;
 	}
 	.video {
 		display: none;
@@ -1450,5 +1457,9 @@ body {
 	}
 	.pht {
 		margin-left: 20px;
+	}
+	.p11122 {
+		display: flex;
+		margin-left: 106px;
 	}
 }

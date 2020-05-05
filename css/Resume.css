@@ -1028,7 +1028,7 @@ body {
 		background: #ffffff;
 		display: grid;
 		grid-template-columns: 65% 35%;
-		grid-template-rows: 75px 450px 450px;
+		grid-template-rows: 75px 500px 450px;
 	}
 	.text2 {
 		display: grid;
@@ -1146,7 +1146,7 @@ body {
 		grid-column: 1 / 3;
 		display: grid;
 		grid-template-columns: 33.3% 33.3% 33.3%;
-		grid-template-rows: 75px 850px 420px 500px 270px;
+		grid-template-rows: 75px 900px 420px 500px 270px;
 	}
 	.p6 {
 		font-size: 14pt;
@@ -1171,7 +1171,7 @@ body {
 		display: grid;
 		grid-row: 2 / 3;
 		grid-template-columns: 100%;
-		grid-template-rows: 125px 10px 125px 10px 125px 10px 125px 10px 125px 10px 125px;
+		grid-template-rows: 125px 10px 125px 10px 125px 25px 125px 10px 125px 10px 125px;
 	}
 	.center {
 		display: flex;
@@ -1205,14 +1205,14 @@ body {
 	}
 	.preg2012 {
 		display: grid;
-		grid-template-columns: 3% 60% 34%;
+		grid-template-columns: 3% 24% 34%;
 		grid-template-rows: 25px 93px;
 		grid-column: 1 / 2;
 		grid-row: 7 / 8;
 	}
 	.preg2011 {
 		display: grid;
-		grid-template-columns: 3% 60% 34%;
+		grid-template-columns: 3% 24% 34%;
 		grid-template-rows: 25px 93px;
 		grid-column: 1 / 2;
 		grid-row: 9 / 10;
@@ -1220,7 +1220,7 @@ body {
 
 	.preg2010 {
 		display: grid;
-		grid-template-columns: 3% 60% 34%;
+		grid-template-columns: 3% 24% 34%;
 		grid-template-rows: 25px 93px;
 		grid-column: 1 / 2;
 		grid-row: 11 / 12;
@@ -1356,7 +1356,7 @@ body {
 		grid-column: 1 / 3;
 		display: grid;
 		grid-template-columns: 33.3% 33.3% 33.3%;
-		grid-template-rows: 75px 850px 420px 500px 270px;
+		grid-template-rows: 75px 900px 420px 500px 270px;
 	}
 	.p6 {
 		font-size: 14pt;
@@ -1381,7 +1381,7 @@ body {
 		display: grid;
 		grid-row: 2 / 3;
 		grid-template-columns: 100%;
-		grid-template-rows: 125px 10px 125px 10px 125px 10px 125px 10px 125px 10px 125px;
+		grid-template-rows: 125px 10px 125px 10px 125px 25px 125px 10px 125px 10px 125px;
 	}
 	.center {
 		display: flex;
@@ -1415,14 +1415,14 @@ body {
 	}
 	.preg2012 {
 		display: grid;
-		grid-template-columns: 3% 60% 34%;
+		grid-template-columns: 3% 24% 34%;
 		grid-template-rows: 25px 93px;
 		grid-column: 1 / 2;
 		grid-row: 7 / 8;
 	}
 	.preg2011 {
 		display: grid;
-		grid-template-columns: 3% 60% 34%;
+		grid-template-columns: 3% 24% 34%;
 		grid-template-rows: 25px 93px;
 		grid-column: 1 / 2;
 		grid-row: 9 / 10;
@@ -1430,7 +1430,7 @@ body {
 
 	.preg2010 {
 		display: grid;
-		grid-template-columns: 3% 60% 34%;
+		grid-template-columns: 3% 24% 34%;
 		grid-template-rows: 25px 93px;
 		grid-column: 1 / 2;
 		grid-row: 11 / 12;
@@ -1566,7 +1566,7 @@ body {
 		grid-column: 1 / 3;
 		display: grid;
 		grid-template-columns: 33.3% 33.3% 33.3%;
-		grid-template-rows: 75px 850px 420px 500px 270px;
+		grid-template-rows: 75px 925px 420px 500px 270px;
 	}
 	.p6 {
 		font-size: 14pt;
@@ -1591,7 +1591,7 @@ body {
 		display: grid;
 		grid-row: 2 / 3;
 		grid-template-columns: 100%;
-		grid-template-rows: 125px 10px 125px 10px 125px 10px 125px 10px 125px 10px 125px;
+		grid-template-rows: 125px 10px 125px 10px 125px 40px 125px 10px 125px 20px 125px;
 	}
 	.center {
 		display: flex;
@@ -1625,14 +1625,14 @@ body {
 	}
 	.preg2012 {
 		display: grid;
-		grid-template-columns: 3% 60% 34%;
+		grid-template-columns: 6% 24% 50% 21%;
 		grid-template-rows: 25px 93px;
 		grid-column: 1 / 2;
 		grid-row: 7 / 8;
 	}
 	.preg2011 {
 		display: grid;
-		grid-template-columns: 3% 60% 34%;
+		grid-template-columns: 6% 24% 50% 21%;
 		grid-template-rows: 25px 93px;
 		grid-column: 1 / 2;
 		grid-row: 9 / 10;
@@ -1640,7 +1640,7 @@ body {
 
 	.preg2010 {
 		display: grid;
-		grid-template-columns: 3% 60% 34%;
+		grid-template-columns: 6% 24% 50% 21%;
 		grid-template-rows: 25px 93px;
 		grid-column: 1 / 2;
 		grid-row: 11 / 12;
